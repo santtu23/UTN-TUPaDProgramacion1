@@ -1,3 +1,3 @@
 # UTN-TUPaDProgramacion1
 
-# ESTE REPOSITORIO ES PARA PRESENTAR TODOS MIS EJERCICIOS DE ESTRUCTURAS REPETITIVAS
+# En este repo muestro mis ejercicios de Estructuras Repetitivas
